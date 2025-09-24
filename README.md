@@ -11,7 +11,8 @@ To fix this, we now keep PDFs inside our own `public/` folder.
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/ai-teacher.git
-cd ai-teacher/my-app
+cd AI-ASSIST
+cd my-app
 npm install
 npm run dev
 
