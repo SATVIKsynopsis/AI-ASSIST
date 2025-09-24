@@ -19,8 +19,7 @@ npm run dev
 
 
 Prerequisites
-Node.js (v18 or higher)
-MongoDB Atlas account or local MongoDB installation
+MongoDB connection string - add in the .env file
 OpenAI API key - add in the .env file
 
 
