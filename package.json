@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mongoose": "^8.18.2",
+    "openai": "^5.22.1",
+    "pdf-parse": "^1.1.1",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/pdf-parse": "^1.1.5"
+  }
+}
