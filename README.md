@@ -14,7 +14,7 @@ To fix this, we now keep PDFs inside our own `public/` folder.
 
 a . git clone https://github.com/your-username/ai-teacher.git
 b . cd ai-teacher/my-app
-c . pm install
+c . npm install
 d . npm run dev
 
 Prerequisites
