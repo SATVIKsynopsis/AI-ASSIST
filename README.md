@@ -6,18 +6,20 @@ but those files are **not guaranteed to exist in production builds**.
 
 To fix this, we now keep PDFs inside our own `public/` folder.
 
-
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/ai-teacher.git
+cd ai-teacher/my-app
+npm install
+npm run dev
 
-a . git clone https://github.com/your-username/ai-teacher.git
-b . cd ai-teacher/my-app
-c . npm install
-d . npm run dev
+
 
 Prerequisites
 Node.js (v18 or higher)
 MongoDB Atlas account or local MongoDB installation
 OpenAI API key - add in the .env file
+
+
